@@ -2,7 +2,4 @@
     "files.associations": {
         "stdio.h": "c"
     }
-    "code-runner.executorMap": {
-        "python": "$pythonPath -u $fullFileName",
-    },
 }
