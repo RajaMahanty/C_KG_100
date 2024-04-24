@@ -6,6 +6,6 @@ int main()
     char last_name[25] = "Mahanty";
     int age = 21;
 
-    printf("First name: %s\nSecond name: %s\nAge: %d",first_name,last_name,age);
+    printf("First name: %s\nSecond name: %s\nAge: %d", first_name, last_name, age);
     return 0;
 }
